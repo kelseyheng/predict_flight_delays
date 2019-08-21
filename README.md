@@ -6,4 +6,4 @@ In this project, I used various classification algorithms such as Logistic Regre
 
 Workbooks cover the initial model selection and RandomGridSearchCV for the top performing model.
 
-An illustration of this repo can be found on my data science blog https://medium.com/@kelseyhenghy/predicting-domestic-flight-delays-during-the-holiday-season-82ec4ff7dcd9
+An illustration of this repo can be found on my data science blog @ https://medium.com/@kelseyhenghy/predicting-domestic-flight-delays-during-the-holiday-season-82ec4ff7dcd9
